@@ -1,92 +1,131 @@
-# 🚖 SantanderTaxi7 — Production Website
+# 🚀 Orvixio — AI Automation Agency
 
-[![Live Site](https://img.shields.io/badge/Live_Site-santandertaxi7.es-black?style=for-the-badge&logo=netlify&logoColor=white)](https://santandertaxi7.es)
-[![Status](https://img.shields.io/badge/Status-Live_in_Production-22c55e?style=for-the-badge)]()
-[![Built by](https://img.shields.io/badge/Built_by-Manuel_Mediavilla-1847C4?style=for-the-badge)]()
+[![Agency](https://img.shields.io/badge/Agency-orvixio.netlify.app-black?style=for-the-badge&logo=netlify&logoColor=white)](https://orvixio.netlify.app)
+[![Status](https://img.shields.io/badge/Status-Active_&_Profitable-a855f7?style=for-the-badge)]()
+[![Clients](https://img.shields.io/badge/Clients-Real_&_Paying-22c55e?style=for-the-badge)]()
+[![Founded](https://img.shields.io/badge/Founded-2024-1847C4?style=for-the-badge)]()
 
-> Full-stack production website designed, developed and deployed solo for a real taxi service company in Santander, Spain.
-
----
-
-## 🌐 Live Site
-
-**[→ santandertaxi7.es](https://santandertaxi7.es)**
+> Bootstrapped AI automation agency. Real clients. Real pipelines. Zero funding.
 
 ---
 
-## 📋 Overview
+## 🌐 Website
 
-SantanderTaxi7 is a complete production website built for a local taxi service company in Santander, Cantabria. The project was delivered end-to-end — from UX design to deployment — by a single developer, and is actively used by real clients.
-
-The goal was to create a fast, mobile-first, SEO-optimised web presence that drives direct bookings and phone enquiries for the business.
+**[→ orvixio.netlify.app](https://orvixio.netlify.app)**
 
 ---
 
-## ✨ Features
+## 📋 What is Orvixio?
 
-- **Responsive design** — fully optimised for mobile, tablet and desktop
-- **Booking & contact flow** — direct call-to-action buttons for instant client conversion
-- **SEO optimisation** — on-page SEO, meta tags, structured data, fast load times
-- **Performance-first** — optimised assets, minimal dependencies, fast TTFB
-- **Cross-browser compatible** — tested across Chrome, Firefox, Safari and Edge
-- **Post-launch iteration** — maintained and improved based on real client feedback
+Orvixio is an AI automation agency founded and operated solo in 2024. We design and build end-to-end automation pipelines that replace repetitive manual workflows for small and medium businesses — reducing manual work by **up to 70%**.
+
+The agency was bootstrapped from day one, acquired real paying clients through direct outreach, and operates fully remotely.
+
+---
+
+## ⚡ What We Build
+
+### AI-Powered Automations
+- **LLM integrations** — GPT-4 powered assistants for customer interactions, content generation and data processing
+- **WhatsApp Business automations** — fully autonomous booking and enquiry handling via WhatsApp API + OpenAI Assistants
+- **CRM automations** — automatic lead capture, qualification and follow-up pipelines
+- **Document processing** — AI extraction and processing of invoices, forms and reports
+
+### Workflow Automation
+- **Multi-step pipelines** built with n8n and Make.com
+- **API integrations** connecting business tools (CRMs, databases, messaging platforms)
+- **Scheduled automations** for reporting, data sync and notifications
+- **Error handling & monitoring** for production-grade reliability
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Layer | Technology |
-|-------|-----------|
-| Frontend | HTML5, CSS3, JavaScript |
-| CMS | WordPress |
-| SEO | On-page optimisation, structured data |
-| Deployment | Shared hosting, custom domain |
-| Performance | Image optimisation, caching |
+| Category | Tools |
+|----------|-------|
+| AI / LLMs | OpenAI API (GPT-4), Assistants API, Prompt Engineering |
+| Automation | n8n, Make.com (Integromat) |
+| Backend | Python, JavaScript, REST APIs |
+| Messaging | WhatsApp Business API, Telegram Bot API |
+| Databases | MySQL, Airtable, Google Sheets |
+| Deployment | Netlify, VPS, Docker |
 
 ---
 
-## 📱 Screenshots
-
-> Visit [santandertaxi7.es](https://santandertaxi7.es) to see the live site.
-
----
-
-## 🚀 What I Built
+## 📊 Impact
 
 ```
-Project Type    → Freelance client project
-Timeline        → Solo delivery
-Status          → Live in production with real users
-Scope           → Design → Development → Deployment → Maintenance
+Manual workflow reduction    → up to 70%
+Client availability          → 24/7 automated responses
+Integration complexity       → Multi-platform pipelines
+Time to delivery             → Days, not weeks
 ```
 
-**Key decisions:**
-- Mobile-first approach since >70% of taxi bookings come from mobile
-- Minimal JavaScript for maximum load speed
-- Clear CTA hierarchy to maximise conversion rate
-- WordPress for easy client content management post-handoff
+---
+
+## 🔧 Example Architecture
+
+### Autonomous Booking Pipeline
+```
+WhatsApp message received
+        ↓
+OpenAI Assistant processes intent
+        ↓
+n8n checks availability in database
+        ↓
+Booking confirmed & stored automatically
+        ↓
+Client receives confirmation via WhatsApp
+        ↓
+Business owner notified via Telegram
+```
+
+### Lead Qualification Pipeline
+```
+Lead captured via web form
+        ↓
+Make.com triggers qualification flow
+        ↓
+GPT-4 scores and categorises lead
+        ↓
+CRM updated automatically
+        ↓
+Follow-up email sent if high-value lead
+```
 
 ---
 
-## 📈 Results
+## 💼 Services
 
-- ✅ Live with real users since 2024
-- ✅ SEO-indexed and ranking for local taxi searches in Santander
-- ✅ Client manages content independently post-handoff
-- ✅ Iterated post-launch based on client feedback
+| Service | Description |
+|---------|-------------|
+| **AI Assistant Setup** | Custom GPT-4 powered assistant for your business |
+| **Process Automation** | End-to-end workflow automation with n8n / Make |
+| **WhatsApp Automation** | 24/7 automated client interactions via WhatsApp |
+| **API Integration** | Connect your existing tools into automated pipelines |
+| **Consultation** | Identify automation opportunities in your workflow |
 
 ---
 
-## 👨‍💻 Developer
+## 🏗️ Why This Repo Exists
 
-**Manuel Mediavilla Aja**
-Full Stack Developer & AI Automation Founder
+Most of Orvixio's client work is confidential. This repository documents the agency's public profile, tech stack, and example architectures to give developers and potential clients a technical overview of how we build.
+
+---
+
+## 👨‍💻 Founder
+
+**Manuel Mediavilla Aja** — Founder & Lead Developer
+
+20 y/o Full Stack Developer based in Cantabria, Spain. Relocating to Miami, FL.
+Building real AI systems for real businesses since 2024.
 
 - 🌐 [orvixio.netlify.app](https://orvixio.netlify.app)
+- 🚖 [santandertaxi7.es](https://santandertaxi7.es) — freelance project
 - 💼 [linkedin.com/in/manuel-mediavilla-aja-5b5777388](https://linkedin.com/in/manuel-mediavilla-aja-5b5777388)
 - 🐙 [github.com/Manuel-Mediavilla](https://github.com/Manuel-Mediavilla)
 - 📧 manu.amistad11@gmail.com
 
 ---
 
-*Part of my freelance portfolio — building real products for real clients.*
+> *"Automating the repetitive so humans can focus on what matters."*
