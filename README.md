@@ -118,7 +118,7 @@ Most of Orvixio's client work is confidential. This repository documents the age
 **Manuel Mediavilla Aja** — Founder & Lead Developer
 
 20 y/o Full Stack Developer based in Cantabria, Spain. Relocating to Miami, FL.
-Building real AI systems for real businesses since 2024.
+Building real AI systems for real businesses since 2026.
 
 - 🌐 [orvixio.netlify.app](https://orvixio.netlify.app)
 - 🚖 [santandertaxi7.es](https://santandertaxi7.es) — freelance project
